@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Arc_AI37_007/Scenes/Arc_AI37_007.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
